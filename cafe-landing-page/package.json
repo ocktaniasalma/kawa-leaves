@@ -1,0 +1,30 @@
+{
+  "name": "cafe-landing-page",
+  "version": "1.0.0",
+  "description": "A landing page for a cafe built with TypeScript and Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "cafe",
+    "landing page",
+    "typescript",
+    "tailwind css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
